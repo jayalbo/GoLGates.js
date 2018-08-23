@@ -2,6 +2,7 @@
 JavaScript ECMAScript6 logic gates (AND, OR, NOT, XOR) using Conway's Game of Life 
 
 ## Installation
+`git clone https://github.com/jayalbo/GoLGates.js.git`
 ##### HTML5
 ```
 <script src="baseGOL.js"></script>
