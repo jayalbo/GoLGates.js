@@ -32,5 +32,5 @@ golGates.xorGate(1,0); //1
 ## Demo
 ##### Game of Life 8-bit Adder
 Demo of a simple 8-bit calculator (adder) using GoLGates.js - 
-[Link](http://whatcreates.com/GameOfLife8BitAdder/)
+[Link](https://jayalbo.github.io/8bitCalc/)
 > HTML/CSS by [Andrew Creech](https://codepen.io/AndrewCreech)
